@@ -56,4 +56,5 @@ namespace ClsWrkTwoWayDataBindingProject.Model
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
+
 }
